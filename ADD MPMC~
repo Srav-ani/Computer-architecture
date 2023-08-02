@@ -1,0 +1,12 @@
+LDA 8050
+MOV A,B
+LDA 8051
+SUB A
+STA 8052
+HLT
+
+
+
+
+
+
